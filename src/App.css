@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+.categoryTable {
+  margin: 10px;
+}
+
+.table,
+th,
+thead,
+tr,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
